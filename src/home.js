@@ -11,7 +11,7 @@ export default function Home() {
       <br />
       <br />
       <br />
-      I'm Home
+      Wish you all the Best!
       <br />
       <br />
       <br />
